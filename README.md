@@ -32,7 +32,6 @@ Actively seeking opportunities to contribute to impactful projects while continu
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg" width="36"/>
 </p>
----
 
 ## 📊 GitHub Stats
 
