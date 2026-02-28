@@ -10,6 +10,11 @@ Actively seeking opportunities to contribute to impactful projects while continu
 
 ## 🛠 Tech Stack
 
+**Languages:** C, Java, JavaScript, Python  
+**Frameworks & Libraries:** Bootstrap, NumPy, OpenCV, Pillow (PIL), Tkinter  
+**Databases & Analytics:** MySQL, Hive, Cloudant, Power BI, Tableau, IBM SPSS, Watson Studio  
+**Tools & Core CS:** Docker, Kubernetes, Hadoop, Linux, DSA, OOP, Operating Systems, Software Engineering, AI
+
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="36"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36"/>
@@ -27,14 +32,6 @@ Actively seeking opportunities to contribute to impactful projects while continu
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg" width="36"/>
 </p>
-
-## 🛠 Tech Stack
-
-**Languages:** C, Java, JavaScript, Python  
-**Frameworks & Libraries:** Bootstrap, NumPy, OpenCV, Pillow (PIL), Tkinter  
-**Databases & Analytics:** MySQL, Hive, Cloudant, Power BI, Tableau, IBM SPSS, Watson Studio  
-**Tools & Core CS:** Docker, Kubernetes, Hadoop, Linux, DSA, OOP, Operating Systems, Software Engineering, AI
-
 ---
 
 ## 📊 GitHub Stats
